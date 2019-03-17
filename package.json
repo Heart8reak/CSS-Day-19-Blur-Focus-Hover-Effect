@@ -1,0 +1,16 @@
+{
+  "name": "css_19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+    "homepage":"https://heart8reak.github.com/CSS-Day-19-Blur-Focus-Hover-Effect.git",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
